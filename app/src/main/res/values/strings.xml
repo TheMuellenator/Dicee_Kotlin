@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Dicee</string>
+    <string name="background_image">background image</string>
+    <string name="logo_image">logo image</string>
+    <string name="roll">Roll</string>
+    <string name="press_to_roll">Press to Roll</string>
+    <string name="left_dice_image">Left dice image</string>
+    <string name="right_dice_image">Right dice image</string>
+    <string name="casino_logo">casino logo</string>
 </resources>
